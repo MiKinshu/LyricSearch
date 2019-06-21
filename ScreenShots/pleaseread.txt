@@ -1,2 +1,0 @@
-in the demonstration video i have mentioned that the favourite artist and track are stored in a text file,
-that is not the case. I mistakenly said that. They are stored in an xml file in the app data folder.
