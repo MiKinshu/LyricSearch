@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lyric Search</string>
+    <string name="title_activity_detailsand_lyrics">DetailsandLyrics</string>
+    <string name="lyrntaval">The lyrics are not available on the server</string>
+    <string name="norecord">Sorry the entered details did not match any records</string>
+    <string name="detntaval">The details are not available on the server</string>
+    <string name="song_details">The Details fetched are:</string>
+    <string name="lyrics_head">The Lyrics for the song entered are:</string>
+    <string name="bookmarks_head">BOOKMARKS</string>
+</resources>
